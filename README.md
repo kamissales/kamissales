@@ -1,12 +1,13 @@
 ## Olá! Eu sou Kamila Sales
 
-  <div style= "display: inline_block">
-<img src="https://i.gifer.com/Nt7W.gif" />
-  </div>
+<div style="display=inline_block">
+ <img src= "https://gifer.com/embed/Nt7W>"
+ </div>
+  
 
  
 <div align="center">
-  <a href="https://github.com/kamissales">
+  <a href="https://github.com/kamissales"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamissales&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamissales&layout=compact&langs_count=7&theme=aura"/>
 </div>
@@ -37,12 +38,6 @@
           
           
 
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=" https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  
-  
-
-  
   
 
           
