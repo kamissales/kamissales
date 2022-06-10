@@ -1,7 +1,8 @@
 ## Olá! Eu sou Kamila Sales
 
 <div style="display=inline_block">
- <img src= "https://gifer.com/embed/Nt7W.git"/>
+ <img src= "[https://gifer.com/embed/Nt7W.git](https://gifer.com/embed/Nt7W)"/>
+ 
  </div>
   
 
