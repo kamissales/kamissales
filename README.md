@@ -1,7 +1,7 @@
 ## Olá! Eu sou Kamila Sales
 
-<div style="display=inline_block">
- <img src="https://user-images.githubusercontent.com/85952863/173442898-a18d156c-f054-46ba-a517-dd2c5cc704c0.gif " />
+<div align="center">
+ <img width="500" src="https://user-images.githubusercontent.com/85952863/173442898-a18d156c-f054-46ba-a517-dd2c5cc704c0.gif " />
  
  </div>
  
